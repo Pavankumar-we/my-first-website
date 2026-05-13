@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Pavan Kumar - Web Developer</title>
+</head>
+<body>
+  <h1>Hi, I am Pavan Kumar 👋</h1>
+  <h2>From Hyderabad, India</h2>
+  <p><strong>I build websites using only my mobile phone 📱</strong></p>
+  
+  <h3>Day 2 Achievement:</h3>
+  <p>✅ Created GitHub Account</p>
+  <p>✅ Made my first repository</p>
+  <p>✅ Did my first commit</p>
+  
+  <h3>My Mission 2026:</h3>
+  <ul>
+    <li>Clear 8 backlogs</li>
+    <li>Master HTML, CSS, JavaScript</li>
+    <li>Get my first IT job</li>
+  </ul>
+  
+  <p><em>"No laptop, no excuses. Phone chalu dreams kosam."</em></p>
+</body>
+</html>
