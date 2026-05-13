@@ -1,2 +1,2 @@
 # my-first-website
-My frist HTML websites built on mobile phone
+My first HTML websites built on mobile phone
